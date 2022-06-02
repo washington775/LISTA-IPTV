@@ -138,4 +138,4 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130781366.m3u8
 #EXTINF:-1 tvg-id="Agro+" tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Logotipo_do_Agro_Canal_2017.jpg" group-title="Canais Abertos",Agro+
-http://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+http://168.205.87.198:8555/live/marLI/123456/175.m3u8
