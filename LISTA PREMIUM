@@ -41,11 +41,11 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w296593210_b2929805.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w565326990.m3u8
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.m3u8
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA HD
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA HD
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwfyRWDmceXausfjA8cKu8XvQ3TsJP7SXGIFwVG5GDqN)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA FHD
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA FHD
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w807119743.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
