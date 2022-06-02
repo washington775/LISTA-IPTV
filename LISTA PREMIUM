@@ -137,5 +137,6 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//
 https://live.xvideosporn.me/p2p/animalplanet/chunks.m3u8?nimblesessionid=2501613&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgMjoyOTo1MSBQTSZoYXNoX3ZhbHVlPVkzK2luVjhOOThVM2NUblM2d2RteFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130781366.m3u8
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="Canais Abertos",RIT TV
+http://168.205.87.198:8555/live/marLI/123456/168.m3u8
 #EXTINF:-1 tvg-id="Agro+" tvg-name="Agro+" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Logotipo_do_Agro_Canal_2017.jpg" group-title="Canais Abertos",Agro+
-http://168.205.87.198:8555/live/marLI/123456/175.m3u8
