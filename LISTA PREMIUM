@@ -31,7 +31,7 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD TESTE 2
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8 
-#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2020/06/AgroMais.jpg" group-title="Canais Abertos",RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
