@@ -40,11 +40,11 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2965932
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w565326990.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-Vqet_u88vcB70YjMorNbk)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA HD
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1035452550.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwfyRWDmceXausfjA8cKu8XvQ3TsJP7SXGIFwVG5GDqN)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Canais abertos",CULTURA FHD
-https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w561258920.m3u8
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w807119743.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
 #EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais Abertos",TV NOVO TEMPO
@@ -116,7 +116,7 @@ http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1383656
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 #EXTINF:-1 tvg-id="Tv Jornal do Nordeste" tvg-name="Tv Jornal do Nordeste" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="Canais Abertos",Tv Jornal do Nordeste
-https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1272354653.m3u8
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w766739393.m3u8
 #EXTINF:-1 tvg-id="TV SERRA VERDE" tvg-name="TV SERRA VERDE" tvg-logo="https://2.bp.blogspot.com/-SWmUnnu8OR0/XuvglYFH-GI/AAAAAAAADBo/sJl61PITyb0eDDO6qjeyH_3PRytTzwvLACLcBGAsYHQ/s320/2020-06-18%2B18.42.11.png" group-title="Canais Abertos",TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w259383894.m3u8
 #EXTINF:-1 tvg-id="TV DIÁRIO" tvg-name="TV DIÁRIO" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario_m.png" group-title="Canais Abertos",TV DIÁRIO
