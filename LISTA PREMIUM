@@ -27,10 +27,8 @@ http://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-id="TOP MIX TV" tvg-name="TOP MIX TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png" group-title="Canais Abertos",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w210980696.m3u8
-#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD TESTE
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD TESTE 2
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8 
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD 
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD HD
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV
