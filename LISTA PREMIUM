@@ -95,8 +95,8 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w126297704.m3u8
 #EXTINF:-1 tvg-id="ISTV" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" group-title="Canais Abertos",ISTV
 https://stmv.voxtvhd.com.br/istv/istv/chunklist_w1635571150.m3u8
-#EXTINF:-1 tvg-id="LONDRINA TV" tvg-name="LONDRINA TV" tvg-logo="https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/s320/Screenshot_2020-06-24-22-22-55.png" group-title="Canais Abertos",LONDRINA TV
-http://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w884911129.m3u8
+#EXTINF:-1 tvg-id="Tv Nova Play" tvg-name="Tv Nova Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Canais Abertos",Tv Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w549988923.m3u8
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2013/12/cancaonova002.jpg" group-title="Canais Abertos",CANCAO NOVA
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1 tvg-id="ALL SPORTES" tvg-name="ALL SPORTES" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="Canais Abertos",ALL SPORTES
