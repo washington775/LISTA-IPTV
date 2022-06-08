@@ -104,7 +104,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w20423123.m3u8
 #EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d96d5f7cae73793f08a7b18b8302511b.png" group-title="Canais Abertos",Rock TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="GOSPEL MUSIC" tvg-name="GOSPEL MUSIC" tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-16-51-47.png" group-title="Canais Abertos",GOSPEL MUSIC
-https://stmv6.srvstm.com/gmusic/gmusic/chunklist_w1648325103.m3u8
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
 #EXTINF:-1 tvg-id="TV União" tvg-name="TV União" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title="Canais Abertos",TV União
 https://stmv1.srvif.com/admin/admin/chunklist_w1988499574.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
