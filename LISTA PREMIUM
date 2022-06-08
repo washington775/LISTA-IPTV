@@ -91,7 +91,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w11030
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1185866223.m3u8
 #EXTINF:-1 tvg-id="TV NATAL" tvg-name="TV NATAL" tvg-logo="https://treinandomentesmilionarias.com.br/wp-content/uploads/2012/11/logo-TV-Natal.png" group-title="Canais Abertos",TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1574381548.m3u8
-#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d7/Logo_-_Canal_Sa%C3%BAde.jpg" group-title="Canais Abertos",CANAL SAUDE
+#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://www.conasems.org.br/wp-content/uploads/2013/09/images_logocanaldesaude.jpg" group-title="Canais Abertos",CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://www.estadoemfoco.com.br/wp-content/uploads/2012/02/terraviva.jpg" group-title="Canais Abertos",TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w126297704.m3u8
