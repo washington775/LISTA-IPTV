@@ -10,7 +10,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT 
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w870517939.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND 
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND 
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1401027841.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND 
