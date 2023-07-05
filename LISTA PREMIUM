@@ -65,8 +65,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="TV Teen Net" tvg-name="TV Teen Net" tvg-logo="https://pbs.twimg.com/media/EUe_RrbWsAAsLAm.jpg" group-title="Canais Abertos",TV Teen Net
 https://srv4.zcast.com.br/tvteennet/tvteennet/chunklist_w1037934188.m3u8
-#EXTINF:-1 tvg-id="TV JAPI" tvg-name="TV JAPI" tvg-logo="https://pa.srvsite.com/arquivos/4991/cabecalho-4991-20190912122539.png" group-title="Canais Abertos",TV JAPI
-https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1312591222.m3u8
+#EXTINF:-1 tvg-id="Vivam Tv" tvg-name="Vivam Tv" tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="Canais Abertos",Vivam Tv
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 #EXTINF:-1 tvg-id="Tv Channel Network" tvg-name="Tv Channel Network" tvg-logo="https://m.media-amazon.com/images/I/813xEVmG6vL._SL500_.png" group-title="Canais Abertos",Tv Channel Network
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w22532818.m3u8
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
