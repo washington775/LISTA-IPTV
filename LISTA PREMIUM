@@ -31,7 +31,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w5
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA HD
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w409430680.m3u8
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA FHD
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA 2
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
