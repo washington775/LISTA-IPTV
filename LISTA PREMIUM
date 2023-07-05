@@ -75,8 +75,8 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w1961387858.m3u8
 https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1400801810.m3u8
 #EXTINF:-1 tvg-id="CANAL 29" tvg-name="CANAL 29" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais Abertos",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1141935746.m3u8
-#EXTINF:-1 tvg-id="TV SUMMER" tvg-name="TV SUMMER" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png" group-title="Canais Abertos",TV SUMMER
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1185866223.m3u8
+#EXTINF:-1 tvg-id="CinePIX " tvg-name="CinePIX " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="Canais Abertos",CinePIX 
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1012613909.m3u8
 #EXTINF:-1 tvg-id="TV NATAL" tvg-name="TV NATAL" tvg-logo="https://treinandomentesmilionarias.com.br/wp-content/uploads/2012/11/logo-TV-Natal.png" group-title="Canais Abertos",TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1574381548.m3u8
 #EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Canais Abertos",CANAL SAUDE
