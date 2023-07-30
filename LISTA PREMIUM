@@ -77,8 +77,8 @@ https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1400801810.m3u8
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1141935746.m3u8
 #EXTINF:-1 tvg-id="CinePIX " tvg-name="CinePIX " tvg-logo="https://apksos.com/storage/images/com/richmondapks/cinepix/com.richmondapks.cinepix_1.png" group-title="Canais Abertos",CinePIX 
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1012613909.m3u8
-#EXTINF:-1 tvg-id="TV NATAL" tvg-name="TV NATAL" tvg-logo="https://treinandomentesmilionarias.com.br/wp-content/uploads/2012/11/logo-TV-Natal.png" group-title="Canais Abertos",TV NATAL
-http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1574381548.m3u8
+#EXTINF:-1 tvg-id="Runtime Comédia" tvg-name="Runtime Comédia" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_comedia_16x9.jpg" group-title="Canais Abertos",Runtime Comédia
+https://stream.ads.ottera.tv/cl/230730cj2sji99ffqu8n81u470/1280x720_3071200_0_f.m3u8
 #EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Canais Abertos",CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://www.estadoemfoco.com.br/wp-content/uploads/2012/02/terraviva.jpg" group-title="Canais Abertos",TERRA VIVA
