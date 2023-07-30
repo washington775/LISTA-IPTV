@@ -63,7 +63,7 @@ http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Canais Abertos",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_thumbnail_2016-18.jpg" group-title="Canais Abertos",TV Teen Net
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_thumbnail_2016-18.jpg" group-title="Canais Abertos",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="Vivam Tv" tvg-name="Vivam Tv" tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="Canais Abertos",Vivam Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
