@@ -83,7 +83,7 @@ http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1574381548.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://www.estadoemfoco.com.br/wp-content/uploads/2012/02/terraviva.jpg" group-title="Canais Abertos",TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w126297704.m3u8
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005255/pt/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Canais Abertos",Love Nature
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/love-nature.jpg" group-title="Canais Abertos",Love Nature
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-id="Tv Nova Play" tvg-name="Tv Nova Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="Canais Abertos",Tv Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w549988923.m3u8
