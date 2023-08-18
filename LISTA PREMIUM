@@ -128,4 +128,4 @@ http://168.205.87.198:8555/live/marLI/123456/168.m3u8
 #EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-5-150x150.jpg" group-title="Canais Abertos",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 #EXTINF:-1 tvg-id="Agro+" tvg-name="Agro+" tvg-logo="https://whatthelogo.com/storage/logos/agro-canal-185817.png" group-title="Canais Abertos",Agro+
-http://168.205.87.198:8555/live/marLI/123456/175.m3u8
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
