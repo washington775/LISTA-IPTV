@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RJ
-https://acesse.one/Fx7MT
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO 
+https://server101.shop/globo-sp/tracks-v1a1/mono.m3u8?remote=170.83.0.18&token=cd2d6cb0ea6b4489d0e318edf4c38897d9c2f299-c5a3900f1c36609640ce503b420336fa-1692569924-1692566324
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1396694597.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT teste
