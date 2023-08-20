@@ -12,7 +12,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w87051793
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND 
 https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND 
-https://stream-04.sv4.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-agZ8nzB3mEFCLa2wc_vZsGOAjPcDgYKZCs7QDScWHXc)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-fIOQ0SpJu7HlxWQBDZf448k5VsnVecybicM8UXYNgB2)/cloud/3/x83vbd6/s/live-4.m3u8
 #EXTINF:-1 tvg-id="TOP MIX TV" tvg-name="TOP MIX TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png" group-title="Canais Abertos",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w210980696.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD 
@@ -44,7 +44,7 @@ https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w1191499721.m3u8
 #EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Canais abertos",TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Canais abertos",DISCOVERY
-https://live.xvideosporn.me/p2p/discoverych/chunks.m3u8?nimblesessionid=2501501&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgMjoyMzo1MSBQTSZoYXNoX3ZhbHVlPTVwdEVGdlp3MHZ6Q3N6UEVxSmlnM0E9PSZ2YWxpZG1pbnV0ZXM9OTA=
+https://server101.shop/d-channel/tracks-v1a1/mono.m3u8?remote=170.83.0.18&token=39ce241bbbce647cfe07dffdaefe4c42e57d9d8e-c56d57db18a50a9c4d08aed615229547-1692568110-1692564510
 #EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais abertos",TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="Canais abertos",TV UNIVERSAL
@@ -120,7 +120,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
-https://live.xvideosporn.me/p2p/animalplanet/chunks.m3u8?nimblesessionid=2501613&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjIgMjoyOTo1MSBQTSZoYXNoX3ZhbHVlPVkzK2luVjhOOThVM2NUblM2d2RteFE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+https://server101.shop/animal-planet/tracks-v1a1/mono.m3u8?remote=170.83.0.18&token=aa133093ac35794baadab21fef9457ce9bbd6cf5-ca1cba296e57aa76868ce38ed5cc0792-1692567890-1692564290
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130781366.m3u8
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="Canais Abertos",RIT TV
