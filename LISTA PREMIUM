@@ -123,7 +123,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//
 https://server101.shop/animal-planet/tracks-v1a1/mono.m3u8?remote=170.83.0.18&token=aa133093ac35794baadab21fef9457ce9bbd6cf5-ca1cba296e57aa76868ce38ed5cc0792-1692567890-1692564290
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130781366.m3u8
-#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://numerodocanal.com/wp-content/uploads/2018/12/numero-rit-tv.png" group-title="Canais Abertos",RIT TV
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://www.installnet.com.br/app/tvip/logo_canais/rit_tv.png" group-title="Canais Abertos",RIT TV
 https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 #EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-5-150x150.jpg" group-title="Canais Abertos",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
