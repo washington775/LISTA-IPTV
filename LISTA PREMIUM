@@ -95,8 +95,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w20423123.m3u8
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1898791107.m3u8
 #EXTINF:-1 tvg-id="GOSPEL MUSIC" tvg-name="GOSPEL MUSIC" tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-16-51-47.png" group-title="Canais Abertos",GOSPEL MUSIC
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
-#EXTINF:-1 tvg-id="TV União" tvg-name="TV União" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33c7fc7f10a545696fecb96bd6fe15e1.png" group-title="Canais Abertos",TV União
-https://stmv1.srvif.com/admin/admin/chunklist_w1988499574.m3u8
+#EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg" group-title="Canais Abertos",Chespirito
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
 http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1383656233.m3u8
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
