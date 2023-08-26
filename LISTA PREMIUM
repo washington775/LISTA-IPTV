@@ -124,7 +124,7 @@ https://server101.shop/animal-planet/tracks-v1a1/mono.m3u8?remote=170.83.0.18&to
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1130781366.m3u8
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="Canais Abertos",RIT TV
-http://168.205.87.198:8555/live/marLI/123456/168.m3u8
+https://ythlsgo.onrender.com/channel/UCAObOGONUfJ855eDtHSXOkw.m3u8
 #EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-5-150x150.jpg" group-title="Canais Abertos",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 #EXTINF:-1 tvg-id="Agro+" tvg-name="Agro+" tvg-logo="https://whatthelogo.com/storage/logos/agro-canal-185817.png" group-title="Canais Abertos",Agro+
