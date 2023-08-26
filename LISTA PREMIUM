@@ -71,8 +71,8 @@ https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w22532818.m3u8
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-id="WEB TV RWCG" tvg-name="WEB TV RWCG" tvg-logo="https://1.bp.blogspot.com/-dujMg4rd8a4/XriKbnJOt3I/AAAAAAAACvo/1olo3x6Iydga8wrQmsXUm8NW6-NkVp9eACLcBGAsYHQ/s320/2020-05-10%2B20.09.46.png" group-title="Canais Abertos",WEB TV RWCG 
-https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1400801810.m3u8
+#EXTINF:-1 tvg-id="Chaves" tvg-name="Chaves" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZrqMZD_WL2oZsjsWCM2uTzrAX6uMHOCtcRQ&usqp=CAU" group-title="Canais Abertos",Chaves 
+http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 #EXTINF:-1 tvg-id="CANAL 29" tvg-name="CANAL 29" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais Abertos",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1141935746.m3u8
 #EXTINF:-1 tvg-id="CinePIX " tvg-name="CinePIX " tvg-logo="https://apksos.com/storage/images/com/richmondapks/cinepix/com.richmondapks.cinepix_1.png" group-title="Canais Abertos",CinePIX 
