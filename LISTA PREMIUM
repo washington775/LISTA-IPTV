@@ -79,8 +79,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8
 #EXTINF:-1 tvg-id="CANAL 29" tvg-name="CANAL 29" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="Canais Abertos",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1141935746.m3u8
-#EXTINF:-1 tvg-id="CinePIX " tvg-name="CinePIX " tvg-logo="https://apksos.com/storage/images/com/richmondapks/cinepix/com.richmondapks.cinepix_1.png" group-title="Canais Abertos",CinePIX 
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1875521654.m3u8
 #EXTINF:-1 tvg-id="Cine Tv Hits Ao Vivo" tvg-name="Cine Tv Hits Ao Vivo" tvg-logo="https://i.imgur.com/NiqKffv.png" group-title="Canais Abertos",Cine Tv Hits Ao Vivo
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w2042099606.m3u8
 #EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Canais Abertos",CANAL SAUDE
