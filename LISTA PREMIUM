@@ -105,7 +105,7 @@ http://168.205.87.198:8555/live/1492/123456/159.m3u8
 http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1383656233.m3u8
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
-#EXTINF:-1 tvg-id="Nature Timee" tvg-name="Nature Time" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="Canais Abertos",Nature Time
+#EXTINF:-1 tvg-id="Nature Timee" tvg-name="Nature Time" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="Canais Abertos",Nature Time
 https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist404-p.m3u8
 #EXTINF:-1 tvg-id="ULB TV" tvg-name="ULB TV" tvg-logo="https://ulbtv.com.br/wp-content/uploads/2023/04/20230412_114257.png" group-title="Canais Abertos",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w936391108.m3u8
