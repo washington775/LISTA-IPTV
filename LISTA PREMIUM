@@ -60,7 +60,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Canais abertos",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2081785138.m3u8
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Canais abertos",BAND NEWS
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1459004583.m3u8
+http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://tvonline.fm/wp-content/uploads/2017/11/gospelcartoon-150x150.jpg" group-title="Canais Abertos",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-tv-brasil-320x169.jpg" group-title="Canais Abertos",TV Brasil
