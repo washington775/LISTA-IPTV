@@ -135,3 +135,5 @@ https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 #EXTINF:-1 tvg-id="Agro brasil" tvg-name="Agro brasi" tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/195-AGROBRASIL-1.png" group-title="Canais Abertos",Agro brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD
+http://cdn2.connectbr.com.br/mtv/index.m3u8
