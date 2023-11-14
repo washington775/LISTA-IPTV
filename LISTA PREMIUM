@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO 
 https://encurtador.com.br/iCO02
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO 
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO 
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1396694597.m3u8
