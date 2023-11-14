@@ -126,7 +126,7 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081/h
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
-https://server101.shop/animal-planet/tracks-v1a1/mono.m3u8?remote=170.83.0.18&token=aa133093ac35794baadab21fef9457ce9bbd6cf5-ca1cba296e57aa76868ce38ed5cc0792-1692567890-1692564290
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-id="Tv Metropolitana" tvg-name="Tv Metropolitana" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11cf16112e09f04f5eff9fbf953d8e42.png" group-title="Canais Abertos",Tv Metropolitana
 https://server02.tvmais.net.br/mistserver/hls/radiometropolitana/1_0/index.m3u8
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
