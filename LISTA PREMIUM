@@ -107,7 +107,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w189879110
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
 #EXTINF:-1 tvg-id="Chespirito" tvg-name="Chespirito" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg" group-title="Canais Abertos",Chespirito
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Documentarios",DISCOVERY TURBO
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
