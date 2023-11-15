@@ -45,8 +45,8 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w409430680.m3u8
 #EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais abertos",TVE BRASIL
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://www.grpmidiacwb.com.br/wp-content/uploads/2019/04/thumbnail_futura.png" group-title="Canais Abertos",FUTURA
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w177369755.m3u8
 #EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais Abertos",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/chunklist_w1741703248.m3u8
 #EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" tvg-logo="https://i.ytimg.com/vi/hwMjLfWa38A/maxresdefault.jpg" group-title="Canais abertos",GAZETA
