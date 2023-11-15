@@ -135,7 +135,7 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 https://server02.tvmais.net.br/mistserver/hls/radiometropolitana/1_0/index.m3u8
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
 https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
-#EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-5-150x150.jpg" group-title="Canais Abertos",XTREME TV
+#EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais Abertos",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 #EXTINF:-1 tvg-id="Agro brasil" tvg-name="Agro brasi" tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/195-AGROBRASIL-1.png" group-title="Canais Abertos",Agro brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
