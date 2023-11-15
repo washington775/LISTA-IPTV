@@ -21,7 +21,7 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w853520901.m3u8
-#EXTINF:-1 tvg-id="TOP MIX TV" tvg-name="TOP MIX TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/464274e45b80e0f3e1a8cb2c90d6fec3.png" group-title="Canais Abertos",TOP MIX TV
+#EXTINF:-1 tvg-id="TOP MIX TV" tvg-name="TOP MIX TV" tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Canais Abertos",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w210980696.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
