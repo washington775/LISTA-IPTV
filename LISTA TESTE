@@ -1,149 +1,48 @@
 
 #EXTM3U
-
-############################################################################ Canais | ABERTO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo MG 
-http://185.150.190.225:16263/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo RJ 4K
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/504
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo SP SD
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo SP HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.pinimg.com/originals/ec/1d/6a/ec1d6a138cb7c94a1ec358a88316d8e8.png" group-title="Canais Abertos",GLOBO 
+https://encurtador.com.br/hxGPR
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo Rpc Foz Do Iguaçu
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/506
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo Rpc Curitiba
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/505
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo Rpc Maringa
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/817
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo RBS FHD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/501
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV Tem SP SD
-http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV TEM SP HD
-http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES HD
-http://200.194.238.229:8383/live/globosupernet/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Canais | ABERTO",Globo SC HD
-http://191.37.250.169:8801/live/NSC/720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
-http://bdtb.io:80/live/378724/pcapQ5/72024.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
-https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
-
-############################################################################ Canais | RECORD TV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record BA HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/520
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SP HD
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO 
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1396694597.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT teste
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1353082117.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT RJ
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w853520901.m3u8
+#EXTINF:-1 tvg-id="TOP MIX TV" tvg-name="TOP MIX TV" tvg-logo="https://i.imgur.com/tnv08Si.png" group-title="Canais Abertos",TOP MIX TV
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w210980696.m3u8
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SP HD
-http://51.83.238.223:16141/
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record RJ HD
-http://bdtb.io:80/live/378724/pcapQ5/96526.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record Conquista HD
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record Paraná HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/526
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record SC HD
-https://caikron.com.br:19360/criciuma/criciuma.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record Juara HD
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais | ABERTO",Record Juina HD
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/56l2uCS.png" group-title="Canais | ABERTO",TV Correio- N é 24h
-https://livestream.zazerconer.workers.dev/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
-
-############################################################################ Canais | REALITY 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Yzwxqki.png" group-title="Canais | REALITY",A Fazenda 15 HD
-http://fadder.eletrinho.shop:2095/live3/afazenda1/chunks.m3u8?token=1700184101_bb3496b1a3d5ab3cd722f5e3789907fa99834557
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Yzwxqki.png" group-title="Canais | REALITY",A Fazenda 15 FHD
-http://bdtb.io:80/live/378724/pcapQ5/194525.m3u8
-
-############################################################################ Canais | BAND TV
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band BA- N é 24h  
-https://livestream.zazerconer.workers.dev/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band RJ- N é 24h
-https://livestream.zazerconer.workers.dev/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP SD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band SP HD
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band TV - Vale do Uruará SD
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band Pará - RBA TV HD
-https://cdn.jmvstream.com/w/AVJ-14849/playlist/chunklist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais | ABERTO",Band MT HD 
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?ManoTV
-
-############################################################################ Canais | SBT TV
-
-#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT SP HD
-
-
-#EXTINF:-1 tvg-id="SBT INTERIOR SP" tvg-name="SBT PE" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT Interior SP HD
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dj3OKKB.png" group-title="Canais | ABERTO",Rede Massa 
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais | ABERTO",SBT Guajará
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tyFtNYn.png" group-title="Canais | ABERTO",SBT BA HD
-https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT CIDADE VERDE FHD
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT RJ" tvg-name="SBT RJ" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT RJ HD
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",SBT RS HD
-https://livestream.zazerconer.workers.dev/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais | ABERTO",VTV SBT HD
-https://livestream.zazerconer.workers.dev/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-
-############################################################################ Canais | REDE TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais | ABERTO",Rede TV! Arapuan HD
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV SD
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais | ABERTO",Rede TV! PR HD
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8 
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD HD
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w751792529.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV teste
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV SD
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w524169863.m3u8
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.m3u8
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA HD
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w409430680.m3u8
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais abertos",TVE BRASIL
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
