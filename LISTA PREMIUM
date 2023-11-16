@@ -33,8 +33,8 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w751792529.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV SP
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1770358432_b2793472.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV teste
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV SD
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV HD
