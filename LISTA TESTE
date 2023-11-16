@@ -3,7 +3,7 @@
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo MG HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo MG 
 http://185.150.190.225:16263/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais | ABERTO",Globo RJ 4K
