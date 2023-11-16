@@ -124,7 +124,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w967726925.m3u8
 #EXTINF:-1 tvg-id="RED BULL TVL" tvg-name="RED BULL TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="Canais Abertos",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://i.vimeocdn.com/portrait/4965913_640x640" group-title="Canais Abertos",FISH TV
-https://m3u9.ml/a2/hls1/fishtv.m3u8?mu3zAQc9HC3GbwJq=kZGcHRRPtLs_gbeROzqN8w&3U1G7qaTxrPbalZnEx=1654216712
+http://168.205.87.198:8555/live/1113/123456/62.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
