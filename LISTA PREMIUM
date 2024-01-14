@@ -112,7 +112,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 #EXTINF:-1 tvg-id="Nature Timee" tvg-name="Nature Time" tvg-logo="https://abre.ai/hj4t" group-title="Canais Abertos",Nature Time
-https://tvup-fast-amagi-blueantllc-naturetimeemea.secure2.footprint.net/playlist404-p.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
 #EXTINF:-1 tvg-id="ULB TV" tvg-name="ULB TV" tvg-logo="https://imgur.com/6MtSWg4.png" group-title="Canais Abertos",ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w936391108.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
