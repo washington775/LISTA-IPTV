@@ -42,6 +42,8 @@ https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/ind
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w524169863.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
+https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w447925729.m3u8
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1736831116.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA HD
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w409430680.m3u8
