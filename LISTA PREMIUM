@@ -54,7 +54,7 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w409430680.m3u8
 #EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais abertos",TVE BRASIL
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://e7.pngegg.com/pngimages/764/824/png-clipart-futura-brazil-television-channel-high-definition-television-3d-folder-television-text-thumbnail.png" group-title="Canais Abertos",FUTURA
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w177369755.m3u8
+https://d3ruy0tnspeepl.cloudfront.net/out/v1/9209c51e6b23480fa297e754c6ca6670/index.m3u8
 #EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais Abertos",TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/chunklist_w1741703248.m3u8
 #EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" tvg-logo="https://i.ytimg.com/vi/hwMjLfWa38A/maxresdefault.jpg" group-title="Canais abertos",GAZETA
