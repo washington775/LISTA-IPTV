@@ -35,8 +35,8 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist.m3
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w751792529.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV teste
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV SD
-https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index.m3u8
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV 
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV HD
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w524169863.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
