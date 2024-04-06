@@ -29,6 +29,8 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w374678362.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 4
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD teste 2
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV
