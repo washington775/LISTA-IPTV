@@ -142,6 +142,8 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-id="Bora Filmes" tvg-name="Bora Filmes" tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais Abertos",Bora Filmes
 http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais Abertos",XTREME TV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
