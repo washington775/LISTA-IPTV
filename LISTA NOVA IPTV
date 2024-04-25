@@ -163,3 +163,8 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tela viva tv" tvg-name="Tela viva tv" tvg-logo="https://encurtador.com.br/tHIJO" group-title="Canais Abertos",Tela viva tv
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236122363.m3u8
+
+#EXTINF:-1 tvg-id="Sony One Emoções" tvg-name="Sony One Emoções" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a314b7e30030089dbb174ed79458610d.webp" group-title="Canais Abertos",Sony One Emoções Ao Vivo
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/053c0ba0-7048-4e32-8a97-7bb1810e63a2/2.m3u8
+
+
