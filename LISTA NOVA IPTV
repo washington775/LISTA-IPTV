@@ -95,8 +95,8 @@ https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w126297704.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/love-nature.jpg" group-title="Canais Abertos",Love Nature
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
 
-#EXTINF:-1 tvg-id="Tv Nova Play" tvg-name="Tv Nova Play" tvg-logo="https://overbr.com.br/wp-content/uploads/2017/03/ViewImage-Play-TV-1.jpg" group-title="Canais Abertos",Tv Nova Play
-https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist_w605371741.m3u8
+#EXTINF:-1 tvg-id="Tv Cine Brasil" tvg-name="Tv Cine Brasil" tvg-logo="https://bravi.tv/wp-content/uploads/2014/06/Cinebrasiltv_logo.png" group-title="Canais Abertos",Tv Cine Brasil 
+https://stmv1.srvif.com/cinebrasil/cinebrasil/chunklist_w618323762.m3u8
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2013/12/cancaonova002.jpg" group-title="Canais Abertos",CANCAO NOVA
 http://168.205.87.198:8555/live/1113/123456/25.m3u8
