@@ -119,8 +119,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 #EXTINF:-1 tvg-id="Nature Timee" tvg-name="Nature Time" tvg-logo="https://abre.ai/hj4t" group-title="Canais Abertos",Nature Time
 https://encurtador.com.br/uEHTU
 
-#EXTINF:-1 tvg-id="ULB TV" tvg-name="ULB TV" tvg-logo="https://imgur.com/6MtSWg4.png" group-title="Canais Abertos",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w936391108.m3u8
+#EXTINF:-1 tvg-id="GLN TV" tvg-name="GLN TV" tvg-logo="https://s3.ezgif.com/tmp/ezgif-3-7b5b42d0f8.png" group-title="Canais Abertos",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w398120813.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
