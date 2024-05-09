@@ -170,7 +170,8 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-id="Tela viva tv" tvg-name="Tela viva tv" tvg-logo="https://encurtador.com.br/tHIJO" group-title="Canais Abertos",Tela viva tv
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236122363.m3u8
 
-
+#EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
 
 
 
