@@ -166,5 +166,8 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236122363.m3u8
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
 
+#EXTINF:-1 tvg-id="Telecine pipoca" tvg-name="Telecine pipoca" tvg-logo="Telecine pipoca" group-title="Canais Abertos",Telecine pipoca
+https://watch.vcdn.in/telecinepipoca/tracks-v1a1/mono.m3u8
+
 
 
