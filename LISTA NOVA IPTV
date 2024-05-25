@@ -18,7 +18,7 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w970754890.m3u8
 
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://e7.pngegg.com/pngimages/764/824/png-clipart-futura-brazil-television-channel-high-definition-television-3d-folder-television-text-thumbnail.png" group-title="Canais Abertos",FUTURA
+#EXTINF:-1 tvg-id="NGT" tvg-name="NGT" tvg-logo="https://i.imgur.com/7pOnR.jpg" group-title="Canais Abertos",NGT
 https://isaocorp.cloudecast.com/ngt/mono.m3u8
 
 #EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais Abertos",TV NOVO TEMPO
