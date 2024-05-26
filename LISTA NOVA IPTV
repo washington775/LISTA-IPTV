@@ -169,5 +169,6 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:-1 tvg-id="Telecine pipoca" tvg-name="Telecine pipoca" tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-6429775BEC-seeklogo.com.png" group-title="Canais Abertos",Telecine pipoca
 https://watch.vcdn.in/telecinepipoca/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
+https://watch.vcdn.in/discoveryheh/tracks-v1a1/mono.m3u8
 
