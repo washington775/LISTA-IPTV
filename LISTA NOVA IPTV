@@ -134,7 +134,7 @@ https://watch.vcdn.in/space/tracks-v1a1/mono.m3u8
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bora Filmes" tvg-name="Bora Filmes" tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais Abertos",Bora Filmes
 http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
