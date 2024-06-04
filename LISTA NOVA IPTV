@@ -72,8 +72,8 @@ https://serv2.videovox.pw/video28392/video28392/chunklist_w484690949.m3u8
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Chaves" tvg-name="Chaves" tvg-logo="https://www.dafont.com/forum/attach/orig/5/0/502374.png" group-title="Canais Abertos",Chaves 
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo-0.png" group-title="Canais Abertos",NATIONAL GEOGRAPHIC
+https://embedflix.info/p2p/nationg/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="Cine Tv Hits Ao Vivo" tvg-name="Cine Tv Hits Ao Vivo" tvg-logo="https://i.imgur.com/NiqKffv.png" group-title="Canais Abertos",Cine Tv Hits Ao Vivo
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w2042099606.m3u8
