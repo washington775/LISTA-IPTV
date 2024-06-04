@@ -87,7 +87,6 @@ https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-id="Tv Cine Brasil" tvg-name="Tv Cine Brasil" tvg-logo="TV" group-title="Canais Abertos",biguaweb tv
 https://59f1cbe63db89.streamlock.net:1443/biguawebtv/_definst_/biguawebtv/chunklist_w357769947.m3u8
 
-
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2013/12/cancaonova002.jpg" group-title="Canais Abertos",CANCAO NOVA
 http://168.205.87.198:8555/live/1113/123456/25.m3u8
 
@@ -110,7 +109,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 https://encurtador.com.br/uEHTU
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+https://mycdn.delivery/history/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV MAIS BRASIL" tvg-name="TV MAIS BRASIL" tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="Canais Abertos",TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w1213901773.m3u8
