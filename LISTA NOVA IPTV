@@ -72,9 +72,6 @@ https://serv2.videovox.pw/video28392/video28392/chunklist_w484690949.m3u8
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo-0.png" group-title="Canais Abertos",NATIONAL GEOGRAPHIC
-https://embedflix.info/p2p/nationg/chunks.m3u8 
-
 #EXTINF:-1 tvg-id="Cine Tv Hits Ao Vivo" tvg-name="Cine Tv Hits Ao Vivo" tvg-logo="https://i.imgur.com/NiqKffv.png" group-title="Canais Abertos",Cine Tv Hits Ao Vivo
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w2042099606.m3u8
 
@@ -153,6 +150,9 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD
 http://cdn2.connectbr.com.br/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD teste
+https://mycdn.delivery/mtvs_00/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais Abertos",TV Diário
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
