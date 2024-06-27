@@ -102,9 +102,6 @@ https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 
-#EXTINF:-1 tvg-id="Nature Timee" tvg-name="Nature Time" tvg-logo="https://abre.ai/hj4t" group-title="Canais Abertos",Nature Time
-https://encurtador.com.br/uEHTU
-
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281-3-main.m3u8
 
