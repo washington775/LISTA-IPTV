@@ -66,9 +66,6 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="Vivam Tv" tvg-name="Vivam Tv" tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="Canais Abertos",Vivam Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 
-#EXTINF:-1 tvg-id="Tv Channel Network" tvg-name="Tv Channel Network" tvg-logo="https://m.media-amazon.com/images/I/813xEVmG6vL._SL500_.png" group-title="Canais Abertos",Tv Channel Network
-https://serv2.videovox.pw/video28392/video28392/chunklist_w484690949.m3u8
-
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
@@ -137,9 +134,6 @@ http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
 https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Bora Filmes" tvg-name="Bora Filmes" tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais Abertos",Bora Filmes
-http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
