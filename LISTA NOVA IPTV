@@ -168,3 +168,5 @@ https://brflu.walk-tv.com/5877/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 https://watch.vcdn.in/discoveryheh/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1980 Channel" tvg-name="1980 Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="Canais Abertos",1980 Channel
+https://stmv6.voxtvhd.com.br/channel80s/channel80s/chunklist_w1309475400.m3u8
