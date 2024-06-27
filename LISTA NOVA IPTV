@@ -151,7 +151,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD
-http://cdn2.connectbr.com.br/mtv/index.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD teste
 https://mycdn.delivery/mtvs_00/tracks-v1a1/mono.m3u8
