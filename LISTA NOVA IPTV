@@ -34,7 +34,7 @@ https://a.cdni.live/tvcarioca/tvcarioca/chunklist_w1027424291.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais abertos",DISCOVERY
-https://mycdn.delivery/discovery/tracks-v1a1/mono.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="Canais abertos",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
