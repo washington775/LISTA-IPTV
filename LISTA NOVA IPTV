@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO SP 
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
