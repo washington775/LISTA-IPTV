@@ -7,7 +7,7 @@ https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
 https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
@@ -99,9 +99,6 @@ https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Documentarios",DISCOVERY TURBO
 https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://i.pinimg.com/236x/56/a4/4b/56a44bc02f54079c1ed53477dc3e21e1.jpg" group-title="Canais Abertos",RBATV
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w341608809.m3u8
-
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281-3-main.m3u8
 
@@ -116,9 +113,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://i.vimeocdn.com/portrait/4965913_640x640" group-title="Canais Abertos",FISH TV
 https://mycdn.delivery/fishtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE HD
-https://brflu.walk-tv.com/5771/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE 
 https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
@@ -140,12 +134,6 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u
 
 #EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
-
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD teste
-https://mycdn.delivery/mtvs_00/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais Abertos",TV Diário
-https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv Rio Madeiras" tvg-name="Tv Rio Madeiras" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png" group-title="Canais Abertos",Tv Rio Madeiras
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
