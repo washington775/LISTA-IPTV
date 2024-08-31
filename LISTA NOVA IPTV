@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO SP 
-https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
-https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -40,7 +40,7 @@ https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chun
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais abertos",DISCOVERY
-https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="Canais abertos",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
@@ -100,7 +100,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w189879110
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Documentarios",DISCOVERY TURBO
-https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281-3-main.m3u8
@@ -115,16 +115,16 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://i.vimeocdn.com/portrait/4965913_640x640" group-title="Canais Abertos",FISH TV
-https://cdn-4.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE 
-https://cdn-4.nxplay.com.br/SPACE_TK/index.m3u8
+https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
-https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/mono.m3u8
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
