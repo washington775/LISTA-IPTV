@@ -75,9 +75,6 @@ https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 #EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL SAUDE" tvg-name="CANAL SAUDE" tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo-top.jpg" group-title="Canais Abertos",CANAL SAUDE
-https://tinyurl.com/39wemehd
-
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais Abertos",TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w126297704.m3u8
 
@@ -153,5 +150,4 @@ https://abc.embedmax.site/tcpipoca/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 https://watch.vcdn.in/discoveryheh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="1980 Channel" tvg-name="1980 Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="Canais Abertos",1980 Channel
-https://stmv6.voxtvhd.com.br/channel80s/channel80s/chunklist_w1309475400.m3u8
+
