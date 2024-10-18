@@ -49,7 +49,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais abertos",BAND NEWS
-http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8
+http://cdn3.connectbr.com.br:80/Band-News/mono.m3u8
 
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://tvonline.fm/wp-content/uploads/2017/11/gospelcartoon-150x150.jpg" group-title="Canais Abertos",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
@@ -83,9 +83,6 @@ https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv Cine Brasil" tvg-name="Tv Cine Brasil" tvg-logo="TV" group-title="Canais Abertos",biguaweb tv
 https://59f1cbe63db89.streamlock.net:1443/biguawebtv/_definst_/biguawebtv/chunklist_w357769947.m3u8
-
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2013/12/cancaonova002.jpg" group-title="Canais Abertos",CANCAO NOVA
-http://168.205.87.198:8555/live/1113/123456/25.m3u8
 
 #EXTINF:-1 tvg-id="ALL SPORTES" tvg-name="ALL SPORTES" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="Canais Abertos",ALL SPORTES
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w20423123.m3u8
@@ -125,9 +122,6 @@ https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-
-#EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais Abertos",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1776787767.m3u8
 
 #EXTINF:-1 tvg-id="Agro brasil" tvg-name="Agro brasi" tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/195-AGROBRASIL-1.png" group-title="Canais Abertos",Agro brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
