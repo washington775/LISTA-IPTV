@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO SP 
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://anonmedia.eu/globosp-globosaopaulo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -142,6 +142,6 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 https://abc.embedmax.site/tcpipoca/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
-https://watch.vcdn.in/discoveryheh/tracks-v1a1/mono.m3u8
+https://anonmedia.eu/discoveryheh/tracks-v1a1/mono.m3u8
 
 
