@@ -97,7 +97,7 @@ https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
 https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281-3-main.m3u8
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="TV MAIS BRASIL" tvg-name="TV MAIS BRASIL" tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="Canais Abertos",TV MAIS BRASIL
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w1213901773.m3u8
