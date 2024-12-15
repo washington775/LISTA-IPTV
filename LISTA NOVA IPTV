@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO SP 
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -10,7 +10,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
-https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -40,7 +40,7 @@ https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chun
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais abertos",DISCOVERY
-https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="Canais abertos",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
@@ -49,7 +49,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais abertos",BAND NEWS
-http://cdn-3.connectbr.com.br:80/Band-News/mono.m3u8
+http://cdn-2.connectbr.com.br:80/Band-News/mono.m3u8
 
 #EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://tvonline.fm/wp-content/uploads/2017/11/gospelcartoon-150x150.jpg" group-title="Canais Abertos",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
@@ -112,7 +112,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE 
-https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+https://cdn-2.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
 http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
