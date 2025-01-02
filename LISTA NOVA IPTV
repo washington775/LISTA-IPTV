@@ -60,9 +60,6 @@ https://br5093.streamingdevideo.com.br/dehujsezdd/dehujsezdd/chunklist_w20232771
 #EXTINF:-1 tvg-id="TV MUNDIAL" tvg-name="TV MUNDIAL" tvg-logo="https://i.pinimg.com/474x/d9/2a/08/d92a08d1ec2d876aa8863d374f08427a.jpg" group-title="Canais Abertos",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
  
-#EXTINF:-1 tvg-id="TV MAX" tvg-name="TV MAX" tvg-logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png" group-title="Canais Abertos",TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Canais Abertos",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
@@ -133,7 +130,7 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236122363.m3u8
 
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
+https://stream.ads.ottera.tv/cl/250102ctri9918qh4p6am08kk0/1920x1080_6046040_3_f.m3u8 
 
 #EXTINF:-1 tvg-id="Telecine pipoca" tvg-name="Telecine pipoca" tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-6429775BEC-seeklogo.com.png" group-title="Canais Abertos",Telecine pipoca
 https://abc.embedmax.site/tcpipoca/tracks-v1/index.fmp4.m3u8
