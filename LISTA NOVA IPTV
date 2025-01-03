@@ -126,9 +126,6 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u
 #EXTINF:-1 tvg-id="Tv Rio Madeiras" tvg-name="Tv Rio Madeiras" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png" group-title="Canais Abertos",Tv Rio Madeiras
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tela viva tv" tvg-name="Tela viva tv" tvg-logo="https://encurtador.com.br/tHIJO" group-title="Canais Abertos",Tela viva tv
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1236122363.m3u8
-
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
 https://stream.ads.ottera.tv/cl/250102ctri9918qh4p6am08kk0/1920x1080_6046040_3_f.m3u8 
 
