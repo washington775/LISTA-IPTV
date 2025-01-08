@@ -127,7 +127,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
-https://stream.ads.ottera.tv/cl/250102ctri9918qh4p6am08kk0/1920x1080_6046040_3_f.m3u8 
+https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w1298998253.m3u8
 
 #EXTINF:-1 tvg-id="Telecine pipoca" tvg-name="Telecine pipoca" tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-6429775BEC-seeklogo.com.png" group-title="Canais Abertos",Telecine pipoca
 https://abc.embedmax.site/tcpipoca/tracks-v1/index.fmp4.m3u8
