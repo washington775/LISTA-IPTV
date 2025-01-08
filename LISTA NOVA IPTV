@@ -55,7 +55,7 @@ http://cdn-2.connectbr.com.br:80/Band-News/mono.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-tv-brasil-320x169.jpg" group-title="Canais Abertos",TV Brasil
-https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=1.m3u8
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=3.m3u8
 
 #EXTINF:-1 tvg-id="TV MUNDIAL" tvg-name="TV MUNDIAL" tvg-logo="https://i.pinimg.com/474x/d9/2a/08/d92a08d1ec2d876aa8863d374f08427a.jpg" group-title="Canais Abertos",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
