@@ -28,7 +28,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1033726866.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV 
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -110,6 +110,9 @@ https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
 
 #EXTINF:-1 tvg-id="RED BULL TVL" tvg-name="RED BULL TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="Canais Abertos",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-id="RED BULL TVL" tvg-name="RED BULL TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="Canais Abertos",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://i.vimeocdn.com/portrait/4965913_640x640" group-title="Canais Abertos",FISH TV
 https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
