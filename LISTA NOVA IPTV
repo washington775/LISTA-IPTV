@@ -139,7 +139,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w127669
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
 
 #EXTINF:-1 tvg-id="Tv Rio Madeiras" tvg-name="Tv Rio Madeiras" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png" group-title="Canais Abertos",Tv Rio Madeiras
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+https://stream.cloudecast.com/hls/superflix/index.m3u8
 
 #EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
