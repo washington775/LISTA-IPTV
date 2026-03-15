@@ -153,6 +153,8 @@ https://anonmedia.eu/discoveryheh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="XTREME TV" tvg-name="XTREME TV" tvg-logo="https://imgur.com/3AbUT8O.png" group-title="Canais Abertos",XTREME TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/chunklist_w490053870.m3u8
 
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-name="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais abertos",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
 
